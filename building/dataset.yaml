@@ -1,0 +1,4 @@
+train: /home/subhajyoti/workspace/yolo/building/train/
+val: /home/subhajyoti/workspace/yolo/building/val/
+nc: 4
+names: ["damagedcommercialbuilding", "damagedresidentialbuilding", "undamagedcommercialbuilding", "undamagedresidentialbuilding"]
